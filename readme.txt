@@ -16,6 +16,8 @@
 
 <p>1st changes from local repo</p>
 
+<p>first changes to branch_console</p>
+
 <p>Emegerncy Fix</p>
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
