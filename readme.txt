@@ -10,7 +10,7 @@
 <div><img src="img_hello_world.jpg" alt="Hello World from Space" style="width:100%;max-width:960px"></div>
 <p>This is the first file in my new Git Repo.</p>
 <p>A new line in our file!</p>
-<p>This is my second branch</p>
+<p>This is my Third branch</p>
 <p>Emegerncy Fix</p>
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
